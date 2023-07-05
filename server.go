@@ -32,6 +32,9 @@ type Server struct {
 	Region                string                        `json:"region"`
 	AvailabilityZone      string                        `json:"availability_zone"`
 	ExtIpV4               string                        `json:"ext_ipv4"`
+	ExtIpV6               string                        `json:"ext_ipv6"`
+	IntIpV4               string                        `json:"int_ipv4"`
+	IntIpV6               string                        `json:"int_ipv6"`
 	HealthCode            int                           `json:"health_state"`
 	UserName              string                        `json:"user_name"`
 	PersonalKey           bool                          `json:"personal_key"`
