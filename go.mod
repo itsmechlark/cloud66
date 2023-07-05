@@ -1,4 +1,4 @@
-module github.com/cloud66-oss/cloud66
+module github.com/itsmechlark/cloud66
 
 go 1.15
 

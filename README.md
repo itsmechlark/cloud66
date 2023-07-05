@@ -5,7 +5,7 @@ Cloud 66 Go Library
 
 ### Getting Started
 
-    go get github.com/cloud66-oss/cloud66
+    go get github.com/itsmechlark/cloud66
 
 
 ### Authorization
